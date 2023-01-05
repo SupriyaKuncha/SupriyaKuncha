@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kunchasupriya181@gmail.com**
 
-- ⚡ Fun fact **I am a good speaker and a leader.**
+- ⚡ Fun fact **I love to talk about Anime.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
