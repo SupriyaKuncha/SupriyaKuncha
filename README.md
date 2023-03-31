@@ -27,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supriyakuncha&" alt="supriyakuncha" /></p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=SupriyaKuncha&theme=gotham)](https://github.com/SupriyaKuncha/github-readme-activity-graph)
+<img href="https://activity-graph.herokuapp.com/graph?username=SupriyaKuncha&theme=gotham)](https://github.com/SupriyaKuncha/github-readme-activity-graph"></img>
