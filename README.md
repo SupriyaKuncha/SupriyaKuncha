@@ -7,13 +7,11 @@
 
 - 👯 I’m looking to collaborate on **UI design/Frontend**
 
-- 🤝 I’m looking for help with **Blockchain**
-
 - 💬 I get excited talking about **Space and time!**
 
 - 📫 How to reach me **kunchasupriya181@gmail.com**
 
-- ⚡ Fun fact **I love to talk about Anime.**
+- ⚡ Fun fact **I love to watch and talk about Anime.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
